@@ -1,5 +1,5 @@
 //INGRESO DE DATOS PARA PODER UTILIZAR CALCULADORA
-
+//muestra por pantalla
 let nombreCompleto = prompt("Ingrese su nombre completo para continuar.")
 if (nombreCompleto == "") {
     alert = ("Ingrese su nombre.")
@@ -18,6 +18,7 @@ if ((nombreCompleto != "") && (edad >= 18)) {
     alert("Presione Aceptar para comenzar a utilizar la Calculadora.")
 
     // YA PUEDE UTILIZAR CALCULADORA
+    // muestra por consola
 
     // Función para sumar dos números
     function sumar(num1, num2) {
