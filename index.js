@@ -15,7 +15,7 @@ if (edad >= 18) {
 }
 
 if ((nombreCompleto != "") && (edad >= 18)) {
-    alert("Presione Aceptar para comenzar a utilizar la Calculadora.")
+    alert("Toque la tecla F12 y luego presione Aceptar para comenzar a utilizar la Calculadora.")
 
     // YA PUEDE UTILIZAR CALCULADORA
     // muestra por consola
